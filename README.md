@@ -32,4 +32,9 @@ files/backup.data # Game Data(backup) Mothed 1
 files/mall_reload_data.data # Mall reload data Mothed 2
 files/monsrise_data.data # monsrise data Mothed 2
 ```
+# Usage
+Open Menu : ``` bash menu.sh ```
 
+# Use Python to encrypt/decrypt
+encrypt: ``` python process.py encrypt filename(should be put in ./data/ folder)```
+decrypt: ``` python process.py decrypt filename(should be put in ./data/ folder)```
