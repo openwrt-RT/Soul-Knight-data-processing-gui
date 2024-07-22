@@ -8,7 +8,7 @@ sh install.sh
 Ubuntu And Other Linux:```sudo apt install dialog python  ```   ```pip install soul-knight-data-processing```
 Put .data files into ./data/ folder
 
-Mainly decrypts
+# Mainly decrypts
 ```
 files/game.data # Game base data Mothed 1
 files/item_data.data # item data Mothed 2
