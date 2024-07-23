@@ -1,5 +1,7 @@
 # Soul-Knight-data-processing-gui
 An Useful bash GUI to help encrypt/decrypt Soul Knight data
+# Video
+Bilibili：http://www.bilibili.com/video/av1406282532
 # Install
 Termux：
 ```
